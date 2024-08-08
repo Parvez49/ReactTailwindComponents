@@ -24,13 +24,21 @@ import Notification from './components/Reserve/Notification';
 import ToolTip from './components/Reserve/ToolTip';
 import FlowbiteIcons from './pages/FlowbitIcons';
 import ThemeToggle from './components/Theme/ThemeToggle';
+import RangeInput from './components/RangeInput';
+import Pagination from './components/Pagination/Pagination';
+import GoogleSearch from './components/Reserve/GoogleSearch';
+import ProgressBar from './components/Reserve/ProgressBar';
 
 
 function App() {
   return (
     // <ToolTip />
     // <PrimeReact />
-    <FlowbiteIcons />
+    // <FlowbiteIcons />
+    // <RangeInput />
+    // <Pagination />
+    // <GoogleSearch />
+    <ProgressBar />
   );
 }
 
