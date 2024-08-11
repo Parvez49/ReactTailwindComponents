@@ -37,8 +37,9 @@ function App() {
     // <FlowbiteIcons />
     // <RangeInput />
     // <Pagination />
-    // <GoogleSearch />
-    <ProgressBar />
+    <GoogleSearch />
+    // <ProgressBar />
+    // <ThemeToggle />
   );
 }
 
