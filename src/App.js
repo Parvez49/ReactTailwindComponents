@@ -28,7 +28,7 @@ import RangeInput from './components/RangeInput';
 import Pagination from './components/Pagination/Pagination';
 import GoogleSearch from './components/Reserve/GoogleSearch';
 import ProgressBar from './components/Reserve/ProgressBar';
-
+import Drawer from './components/Reserve/Drawer';
 
 function App() {
   return (
@@ -37,7 +37,8 @@ function App() {
     // <FlowbiteIcons />
     // <RangeInput />
     // <Pagination />
-    <GoogleSearch />
+    // <GoogleSearch />
+    <Drawer />
     // <ProgressBar />
     // <ThemeToggle />
   );
